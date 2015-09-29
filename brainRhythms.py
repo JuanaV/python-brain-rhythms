@@ -1,8 +1,6 @@
-""" --Juana Valeria Hurtado Rincon Julio 2015-- 
-	Library for GCPDS devices processing
-	Python development tool for EEG-based Brain Computer Interface
-	Rhythms analysis EEG python module
-	python development tool for EEG-based rhythms """
+""" --Juana Valeria Hurtado Rincon jvhurtador@unal.edu.co-- 
+	 Signal Processing and Pattern Recognition Research Group
+	 Universidad Nacional de colombia """
 
 
 from numpy import fft
