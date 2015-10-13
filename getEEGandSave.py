@@ -14,7 +14,7 @@ channels = 14
 
 EEG,headset = br.readEEG(fs,time,channels)
 filename = 'EEGdata'
-header = "EEG data from emotiv" 
+Header = "EEG data from emotiv" 
 br.saveEEGTxt(EEG,filename,Header)
 
 EEG_n = br.normalizeEEG(EEG)
