@@ -13,13 +13,15 @@ Python-brain-rhythms is a python development tool for EEG-based rhythms extracti
 
 * Emokit: https://github.com/openyou/emokit
 
+* (Windows only) Microsoft Visual C++ Compiler for Python 2.7: http://aka.ms/vcpython27
+
 ** Emokit requires: pywinusb (Windows Only), pycrypto, gevent, realpath
 
 * PyQtGraph: http://www.pyqtgraph.org/
 
 ** PyQtGraph requires: PyQt 4.8+ or PySide
 
-* (Windows only) Microsoft Visual C++ Compiler for Python 2.7: http://aka.ms/vcpython27
+
 
 
 
